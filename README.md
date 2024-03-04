@@ -10,3 +10,5 @@ requires (openpyxl) library
 3- Execute script.py within the same directory as .xlsx TTP mappings  
 
 4- Script wil ouput Heat_Mappings.xlsx   
+
+![image](https://github.com/chrisytharp/ATT-CK_HEATMAP/assets/37886152/8ebc5bdd-ae79-4c85-a880-4c424aa4bd20)
