@@ -8,6 +8,7 @@ The goal of this project is to compile lessons learned from incidents into an ac
 Requirements:
 
 Python with the openpyxl library installed.
+
 Steps:
 
 Post-Incident Analysis: After each incident, document the Tactics, Techniques, and Procedures (TTPs) discovered using the ATT&CK Navigator Tool available at MITRE ATT&CK Navigator.
