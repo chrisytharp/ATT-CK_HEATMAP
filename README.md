@@ -12,6 +12,7 @@ Python with the openpyxl library installed.
 Steps:
 
 Post-Incident Analysis: After each incident, document the Tactics, Techniques, and Procedures (TTPs) discovered using the ATT&CK Navigator Tool available at MITRE ATT&CK Navigator.
+  https://mitre-attack.github.io/attack-navigator/
 Export Data: Save the TTP mappings as a single layer in an Excel (.xlsx) file, renaming it appropriately for future reference.
 Execution: Run the provided script.py within the same directory as the TTP mappings Excel file.
 Output: The script will generate a Heat_Mappings.xlsx file, presenting the heatmap visualization.
